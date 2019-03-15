@@ -1,5 +1,12 @@
 # Changes in the BigML.io Java bindings
 
+## 1.8.8 version
+
+### Bugs
+
+* Fixed bug in LocalCluster parsing critical_value property.
+* Fixed bug parsing tags in Source creation.
+
 ## 1.8.7 version
 
 ### Bugs
